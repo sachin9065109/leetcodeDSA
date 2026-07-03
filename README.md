@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sachin9065109/leetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/sachin9065109/leetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/sachin9065109/leetcodeDSA/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sachin9065109/leetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/sachin9065109/leetcodeDSA/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sachin9065109/leetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/sachin9065109/leetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/sachin9065109/leetcodeDSA/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sachin9065109/leetcodeDSA/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/sachin9065109/leetcodeDSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
